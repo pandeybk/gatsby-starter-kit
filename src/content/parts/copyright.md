@@ -2,4 +2,4 @@
 name: copyrightNote
 ---
 
-Copyright 2018 greg lobinski
+Copyright © 2018 GoGlides. All rights reserved
